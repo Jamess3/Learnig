@@ -1,2 +1,2 @@
-# Learnig
+# Start
 basics of learning

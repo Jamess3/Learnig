@@ -8,7 +8,7 @@ while jidlo:
     print ('''    Na  vyber mas 
 rajce/ salat / banan
 okurka / jahoda/ malina
---------------------------------''')
+---------------------------------''')
     prvek = input('Napis ovoce nebo zelenina\n')
     if prvek in ovoce:
         print('Zadal jsi ovoce')

@@ -1,5 +1,5 @@
 def median():
-# hard program on calculation median
+#program on calculation median
     print('''
     ---------------------------------
     Enter the five number and confirm

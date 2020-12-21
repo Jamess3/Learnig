@@ -1,5 +1,5 @@
 def food():
-#middle program on 
+#middle program on selection food
     ovoce = 'malina','jahoda','banan'
     zelenina = 'okurka','salat','rajce'
     jidlo = True

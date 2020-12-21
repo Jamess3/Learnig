@@ -1,6 +1,6 @@
 # Start
-basics of learning 
-/You can used, my programs in your browser:
+basics of learning\n
+You can used, my programs in your browser:
 https://repl.it/languages/python3
-/Thaks you for watching.
-/Jamess  >-)
+Thaks you for watching.
+Jamess  >-)
